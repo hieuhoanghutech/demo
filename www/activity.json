@@ -1,0 +1,307 @@
+﻿{"quizlist":[
+  
+	{
+	"question":"Đâu là tên của một loài hoa?",
+	"option1":"A:Đồng hào",
+	"option2":"B:Đồng đô",
+	"option3":"C:Đồng xu",
+	"option4":"D:Đồng tiền",
+	"answer":4,
+	"level":1
+	
+	},
+	{
+	"question":"Kí hiệu hóa học của nguyên tố Flo là gì?",
+	"option1":"A:Ca",
+	"option2":"B:Ba",
+	"option3":"C:F",
+	"option4":"D:Na",
+	"answer":3,
+	"level":1
+	
+	},
+	{
+	"question":"Những chi tiết \"Voi chín ngà, gà chín cựa, ngựa chín hồng mao\" nằm trong truyện nào?",
+	"option1":"A:Tấm Cám",
+	"option2":"B:Sơn Tinh Thủy Tinh",
+	"option3":"C:Thánh Gióng",
+	"option4":"D:Mỵ Châu Trọng Thủy",
+	"answer":2,
+	"level":1
+	
+	},
+	{
+	"question":"Đâu là ngày Quốc tế thiếu nhi?",
+	"option1":"A:1 tháng 6",
+	"option2":"B:27 tháng 7",
+	"option3":"C:19 tháng 8",
+	"option4":"D:10 tháng 10",
+	"answer":1,
+	"level":1
+	
+	},
+	{
+	"question":"Theo phương ngữ Nam Bộ, dưa leo là tên gọi khác của loại dưa gì?",
+	"option1":"A:Dưa lê",
+	"option2":"B:Dưa hấu",
+	"option3":"C:Dưa bờ",
+	"option4":"D:Dưa chuột",
+	"answer":4,
+	"level":1
+	},
+	{
+	"question":"Mũi cao, thẳng thường được ví với hình ảnh nào?",
+	"option1":"A:Dọc mùng",
+	"option2":"B:Dọc dừa",
+	"option3":"C:Dọc khoai nước",
+	"option4":"D:Dọc mương",
+	"answer":2,
+	"level":1
+	},
+	{
+	"question":"Trong nấu ăn không có động tác nào sau đây?",
+	"option1":"A:Bóc hành",
+	"option2":"B:Phi hành",
+	"option3":"C:Giã hành",
+	"option4":"D:Bình hành",
+	"answer":4,
+	"level":1
+	},
+	{
+	"question":"Không có loại chè nào?",
+	"option1":"A:Chè vừng",
+	"option2":"B:Chè sắn",
+	"option3":"C:Chè ngô",
+	"option4":"D:Chè thóc",
+	"answer":4,
+	"level":1
+	},
+	{
+	"question":"Có câu:\" Chiếc áo không làm nên thầy ...\" gì?",
+	"option1":"A:Tớ",
+	"option2":"B:Em",
+	"option3":"C:Tu",
+	"option4":"D:Bói",
+	"answer":3,
+	"level":1
+	},
+	{
+	"question":"Người ta thường ví: \"Da trắng như ...\" gì?",
+	"option1":"A:Trứng vịt lộn",
+	"option2":"B:Trứng gà bóc",
+	"option3":"C:Trừng đà điểu",
+	"option4":"D:Trứng khủng long",
+	"answer":2,
+	"level":1
+	},
+	{
+	"question":"Đâu không phải một loại tóc?",
+	"option1":"A:Tóc tơ",
+	"option2":"B:Tóc rễ tre",
+	"option3":"C:Tóc xoăn",
+	"option4":"D:Tóc tai",
+	"answer":4,
+	"level":1
+	},
+	{
+	"question":"Đâu là 1 vật dụng trong văn phòng?",
+	"option1":"A:Máy cày",
+	"option2":"B:Máy tuốt lúa",
+	"option3":"C:Máy in",
+	"option4":"D:Máy gặt",
+	"answer":3,
+	"level":1
+	},
+	{
+	"question":"Có câu: \"Chuồn chuồn bay thấp thì ...\" là sao?",
+	"option1":"A:Bão",
+	"option2":"B:Mưa",
+	"option3":"C:Nắng",
+	"option4":"D:Gió",
+	"answer":2,
+	"level":1
+	},
+	{
+	"question":"Món ăn nào ở Hà Nội thường ăn kèm với nhiều rau sống?",
+	"option1":"A:Cháo trai",
+	"option2":"B:Bành mì pa-tê",
+	"option3":"C:Bún chả",
+	"option4":"D:Phở",
+	"answer":3,
+	"level":1
+	},
+	{
+	"question":"Theo các câu truyện nhân gian thì con vật nào sau đây có trên cung trăng?",
+	"option1":"A:Kỳ đà",
+	"option2":"B:Thỏ",
+	"option3":"C:Heo",
+	"option4":"D:Mãn xà",
+	"answer":2,
+	"level":1
+	},
+	{
+	"question":"Mạng xã hội nào lớn nhất trên thế giới hiện nay?",
+	"option1":"A:Facebook",
+	"option2":"B:MySpace",
+	"option3":"C:Twitter",
+	"option4":"D:Google Plus",
+	"answer":1,
+	"level":1
+	
+	},
+	{
+	"question":"Cù lao mái nhà nằm ở tỉnh nào?",
+	"option1":"A:Bà Rịa-Vũng Tàu",
+	"option2":"B:Quảng Nam",
+	"option3":"C:Phú Yên",
+	"option4":"D:Bình Định",
+	"answer":3,
+	"level":2
+	},
+	{
+	"question":"Trong chèo cổ, lưu không có nghĩa là gì?",
+	"option1":"A:Một làn điệu",
+	"option2":"B:Đoạn nhạc trong làn điệu",
+	"option3":"C:Vai diễn",
+	"option4":"D:Nhạc cụ",
+	"answer":2,
+	"level":2
+	},
+	{
+	"question":"AFC Asian Cup 2011 được tổ chức tại quốc gia nào?",
+	"option1":"A:Qatar",
+	"option2":"B:Hàn Quốc",
+	"option3":"C:Nhật Bản",
+	"option4":"D:Iraq",
+	"answer":1,
+	"level":3
+	},
+	{
+	"question":"Sông Bến Hải và sông Thạch Hãn nằm ở tỉnh nào?",
+	"option1":"A:Quảng Bình",
+	"option2":"B:Quảng Nam",
+	"option3":"C:Quảng Trị",
+	"option4":"D:Quảng Ngãi",
+	"answer":3,
+	"level":3
+	},
+	{
+	"question":"Trong các cây cầu sau, cầu nào là cầu xoay?",
+	"option1":"A:Cầu Thanh Trì",
+	"option2":"B:Cầu Thị Nại",
+	"option3":"C:Cầu Sông Hàn",
+	"option4":"D:Cầu Cần Thơ",
+	"answer":3,
+	"level":3
+	},
+	{
+	"question":"Đại Ngu là quốc hiệu của triều đại nào?",
+	"option1":"A:Triều Ngô",
+	"option2":"B:Triều Hồ",
+	"option3":"C:Các chúa Nguyễn",
+	"option4":"D:Nhà Tây Sơn",
+	"answer":2,
+	"level":2
+	},
+	{
+	"question":"Các vua Hùng đặt quốc hiệu nước ta là gì?",
+	"option1":"A:Văn Lang",
+	"option2":"B:Âu Lạc",
+	"option3":"C:Vạn Xuân",
+	"option4":"D:Đại Việt",
+	"answer":1,
+	"level":2
+	},
+	{
+	"question":"\"Điêu tàn\" là tập thơ đầu tiên của nhà thơ nào?",
+	"option1":"A:Anh Thơ",
+	"option2":"B:Thế Lữ",
+	"option3":"C:Bích Khê",
+	"option4":"D:Chế Lan Viên",
+	"answer":2,
+	"level":2
+	},
+	{
+	"question":"Tỉnh nào đăng cai tổ chức Năm du lịch Quốc gia 2012?",
+	"option1":"A:Thừa Thiên Huế",
+	"option2":"B:Hải Phòng",
+	"option3":"C:Phú Yên",
+	"option4":"D:Bình Định",
+	"answer":1,
+	"level":3
+	},
+	{
+	"question":"Cúm và sởi là những bệnh lây truyền qua đường nào?",
+	"option1":"A:Tiêu hoá",
+	"option2":"B:Hô hấp",
+	"option3":"C:Sinh dục",
+	"option4":"D:Máu",
+	"answer":2,
+	"level":2
+	},
+	{
+	"question":"Virus sởi lây truyền qua đường nào?",
+	"option1":"A:Tiêu hoá",
+	"option2":"B:Hô hấp",
+	"option3":"C:Máu",
+	"option4":"D:Sinh dục",
+	"answer":2,
+	"level":1
+	},
+	{
+	"question":"Tượng đài Mẹ Suốt nằm bên cạnh con sông nào?",
+	"option1":"A:Sông Nhật Lệ",
+	"option2":"B:Sông Gianh",
+	"option3":"C:Sông Long Đại",
+	"option4":"D:Sông Kiến Giang",
+	"answer":1,
+	"level":2
+	},
+	{
+	"question":"Việt Nam lần đầu tiên vô địch AFF Cup là vào năm nào?",
+	"option1":"A:2004",
+	"option2":"B:2006",
+	"option3":"C:2008",
+	"option4":"D:2010",
+	"answer":3,
+	"level":1
+	},
+	{
+	"question":"Giáo sư Trần Văn Khê nổi tiếng ở lĩnh vực nào?",
+	"option1":"A:Toán học",
+	"option2":"B:Thiên văn học",
+	"option3":"C:Lịch sử",
+	"option4":"D:Âm nhạc",
+	"answer":4,
+	"level":2
+	},
+	{
+	"question":"CLB nào vô địch FIFA Club World Cup 2010 tổ chức tại Qatar?",
+	"option1":"A:Inter Milan",
+	"option2":"B:Real Madrid",
+	"option3":"C:Bayern Munich",
+	"option4":"D:Manchester United",
+	"answer":1,
+	"level":3
+	},
+	{
+	"question":"Phú Yên-tỉnh đăng cai Năm du lịch quốc gia 2011 ở khu vực nào?",
+	"option1":"A:Nam Trung Bộ",
+	"option2":"B:Tây Nguyên",
+	"option3":"C:Đông Bắc Bộ",
+	"option4":"D:Tây Nam Bộ",
+	"answer":1,
+	"level":3
+	},
+	{
+	"question":"Có câu:\"Gần chùa gọi Bụt bằng ...\" gì?",
+	"option1":"A:Sếp",
+	"option2":"B:Ấy",
+	"option3":"C:Tớ",
+	"option4":"D:Anh",
+	"answer":4,
+	"level":1
+	}
+]
+ 
+}
