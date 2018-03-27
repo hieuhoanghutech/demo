@@ -403,7 +403,7 @@ var score=0;
 var items=[];
 //mảng này sẽ chứa 15 số random từ mảng items,tương ứng với thứ tự câu hỏi sẽ đuoc xuất ra
 var b=[];
-$.getJSON('activity.json', function(data) {
+$.getJSON('https://hoangvanhieu.000webhostapp.com/api.php/user', function(data) {
 	for(i=0;i<data.quizlist.length;i++){ 
 		questionBank[i]=new Array;
 		questionBank[i][0]=data.quizlist[i].question;
